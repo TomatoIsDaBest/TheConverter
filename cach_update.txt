@@ -1,4 +1,4 @@
 1. Truy cập vô https://github.com/TomatoIsDaBest/TheConverter
-2. Tải file setup lên
+2. Tải file setup lên (phiên bản file setup phải lớn hơn phiên bản phần mềm)
 3. Tải file phiên bản lên (nếu đã tải rồi mà muốn tải nữa thì đợi 5p github nó mới cập nhật)
 4. Phải làm đúng thứ tự
